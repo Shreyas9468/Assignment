@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenProgressBar">
+        <item name="android:progressDrawable">@drawable/green_progress_bar</item>
+    </style>
+
+</resources>

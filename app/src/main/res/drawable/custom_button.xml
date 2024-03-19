@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="20dp" /> <!-- Adjust the radius as per your requirement -->
+    <gradient
+        android:angle="90"
+        android:endColor="#00ff25"
+        android:startColor="#000000"
+        android:centerColor="#36A54680"
+        android:centerX="40%"
+        android:endX="100"
+        android:type="linear"/>
+</shape>
